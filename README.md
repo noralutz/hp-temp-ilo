@@ -3,6 +3,8 @@ This is a simple python script designed to access the HP ILO API to gather ambie
 Usage: get_ambient_temp.py admin_user ilo_password inventory_filename warn_temp
 
 Example inventory file: 
+---
 somehost.example.com
+---
 
 Note: All temperatures are in Fahrenheit. 
